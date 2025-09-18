@@ -1,0 +1,56 @@
+[
+        {
+                "title": "Wedding Photography",
+                "category": "Wedding",
+                "image": "",
+                "topRightImage": "",
+                "bottomRightImage": "",
+                "description": "Beautiful wedding ceremony captured in golden hour",
+                "urlPath": "wedding"
+        },
+        {
+                "title": "Portrait Session",
+                "category": "Portrait",
+                "image": "",
+                "topRightImage": "",
+                "bottomRightImage": "",
+                "description": "Professional headshot with natural lighting",
+                "urlPath": "portrait"
+        },
+        {
+                "title": "Event Photography",
+                "category": "Event",
+                "image": "",
+                "topRightImage": "",
+                "bottomRightImage": "",
+                "description": "Corporate event documentation",
+                "urlPath": "event"
+        },
+        {
+                "title": "Family Portrait",
+                "category": "Family",
+                "image": "",
+                "topRightImage": "",
+                "bottomRightImage": "",
+                "description": "Warm family memories captured outdoors",
+                "urlPath": "family"
+        },
+        {
+                "title": "Seemantham Ceremony",
+                "category": "Seemantham",
+                "image": "",
+                "topRightImage": "",
+                "bottomRightImage": "",
+                "description": "Seemantham ceremony captured in vibrant colors",
+                "urlPath": "seemantham"
+        },
+        {
+                "title": "Birthday Celebration",
+                "category": "Birthday",
+                "image": "",
+                "topRightImage": "",
+                "bottomRightImage": "",
+                "description": "Fun and colorful birthday party photography",
+                "urlPath": "birthday"
+        }
+]
