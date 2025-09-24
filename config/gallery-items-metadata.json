@@ -1,39 +1,12 @@
 [
         {
-                "title": "Wedding Photography",
-                "category": "Wedding",
+                "title": "Birthday Celebration",
+                "category": "Birthday",
                 "image": "",
                 "topRightImage": "",
                 "bottomRightImage": "",
-                "description": "Beautiful wedding ceremony captured in golden hour",
-                "urlPath": "wedding"
-        },
-        {
-                "title": "Portrait Session",
-                "category": "Portrait",
-                "image": "",
-                "topRightImage": "",
-                "bottomRightImage": "",
-                "description": "Professional headshot with natural lighting",
-                "urlPath": "portrait"
-        },
-        {
-                "title": "Event Photography",
-                "category": "Event",
-                "image": "",
-                "topRightImage": "",
-                "bottomRightImage": "",
-                "description": "Corporate event documentation",
-                "urlPath": "event"
-        },
-        {
-                "title": "Family Portrait",
-                "category": "Family",
-                "image": "",
-                "topRightImage": "",
-                "bottomRightImage": "",
-                "description": "Warm family memories captured outdoors",
-                "urlPath": "family"
+                "description": "Fun and colorful birthday party photography",
+                "urlPath": "birthday"
         },
         {
                 "title": "Seemantham Ceremony",
@@ -45,12 +18,30 @@
                 "urlPath": "seemantham"
         },
         {
-                "title": "Birthday Celebration",
-                "category": "Birthday",
+                "title": "Cradle Ceremony",
+                "category": "Cradle",
                 "image": "",
                 "topRightImage": "",
                 "bottomRightImage": "",
-                "description": "Fun and colorful birthday party photography",
-                "urlPath": "birthday"
+                "description": "Beautiful cradle ceremony captured with care",
+                "urlPath": "cradle_ceremony"
+        },
+        {
+                "title": "Tana Tournament",
+                "category": "Tana",
+                "image": "",
+                "topRightImage": "",
+                "bottomRightImage": "",
+                "description": "TANA tournament action shots",
+                "urlPath": "tana_tournament"
+        },
+        {
+                "title": "Fireworks Display",
+                "category": "Fireworks",
+                "image": "",
+                "topRightImage": "",
+                "bottomRightImage": "",
+                "description": "Spectacular fireworks photography",
+                "urlPath": "fireworks"
         }
 ]
