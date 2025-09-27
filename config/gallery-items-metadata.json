@@ -1,47 +1,74 @@
 [
-        {
-                "title": "Birthday Celebration",
-                "category": "Birthday",
-                "image": "",
-                "topRightImage": "",
-                "bottomRightImage": "",
-                "description": "Fun and colorful birthday party photography",
-                "urlPath": "birthday"
-        },
-        {
-                "title": "Seemantham Ceremony",
-                "category": "Seemantham",
-                "image": "",
-                "topRightImage": "",
-                "bottomRightImage": "",
-                "description": "Seemantham ceremony captured in vibrant colors",
-                "urlPath": "seemantham"
-        },
-        {
-                "title": "Cradle Ceremony",
-                "category": "Cradle",
-                "image": "",
-                "topRightImage": "",
-                "bottomRightImage": "",
-                "description": "Beautiful cradle ceremony captured with care",
-                "urlPath": "cradle_ceremony"
-        },
-        {
-                "title": "Tana Tournament",
-                "category": "Tana",
-                "image": "",
-                "topRightImage": "",
-                "bottomRightImage": "",
-                "description": "TANA tournament action shots",
-                "urlPath": "tana_tournament"
-        },
-        {
-                "title": "Fireworks Display",
-                "category": "Fireworks",
-                "image": "",
-                "topRightImage": "",
-                "bottomRightImage": "",
-                "description": "Spectacular fireworks photography",
-                "urlPath": "fireworks"
-        }
+    {
+        "title": "Birthday Celebration",
+        "category": "Birthday",
+        "image": "",
+        "topRightImage": "",
+        "bottomRightImage": "",
+        "description": "Indian birthdays burst with vibrant colors and joyful laughter. Family bonds shine through heartfelt moments and festive decor.",
+        "urlPath": "birthday"
+    },
+    {
+        "title": "Housewarming Event",
+        "category": "Housewarming",
+        "image": "",
+        "topRightImage": "",
+        "bottomRightImage": "",
+        "description": "Griha pravesh rituals mark auspicious new beginnings in a beautifully adorned home. Warm gatherings celebrate tradition and togetherness.",
+        "urlPath": "housewarming"
+    },
+    {
+        "title": "Seemantham Ceremony",
+        "category": "Seemantham",
+        "image": "",
+        "topRightImage": "",
+        "bottomRightImage": "",
+        "description": "Seemantham moments blend intricate decorations with blessings from elders. Each frame reflects the richness of cultural heritage.",
+        "urlPath": "seemantham"
+    },
+    {
+        "title": "Cradle Ceremony",
+        "category": "Cradle",
+        "image": "",
+        "topRightImage": "",
+        "bottomRightImage": "",
+        "description": "Cradle ceremonies welcome new life with vibrant attire and family traditions. Tender scenes capture the joy of generations coming together.",
+        "urlPath": "cradle_ceremony"
+    },
+    {
+        "title": "Half Saree Ceremony",
+        "category": "Half Saree",
+        "image": "",
+        "topRightImage": "",
+        "bottomRightImage": "",
+        "description": "Half saree celebrations highlight radiant colors and cultural customs. The beauty of coming-of-age shines in every elegant moment.",
+        "urlPath": "half_saree"
+    },
+    {
+        "title": "Bonalu Festival",
+        "category": "Bonalu",
+        "image": "",
+        "topRightImage": "",
+        "bottomRightImage": "",
+        "description": "Bonalu festivities brim with ornate pots and spirited energy. Traditional rituals showcase the vibrance of South Indian culture.",
+        "urlPath": "bonalu"
+    },
+    {
+        "title": "Tana Tournament",
+        "category": "Tana",
+        "image": "",
+        "topRightImage": "",
+        "bottomRightImage": "",
+        "description": "TANA tournaments bring communities together in energetic sportsmanship. Camaraderie and competitive spirit fill the vibrant event.",
+        "urlPath": "tana_tournament"
+    },
+    {
+        "title": "Fireworks Display",
+        "category": "Fireworks",
+        "image": "",
+        "topRightImage": "",
+        "bottomRightImage": "",
+        "description": "Festive nights sparkle with dazzling fireworks and joyful celebration. The sky is filled with the splendor of joyful celebration.",
+        "urlPath": "fireworks"
+    }
 ]
