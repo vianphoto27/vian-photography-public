@@ -1,10 +1,5 @@
 [
   {
-    "title": "Cinematic Drone Footage",
-    "youtubeId": "Bolqtw-OVuo",
-    "description": "Stunning aerial shots captured with a drone"
-  },
-  {
     "title": "Wedding",
     "youtubeId": "Maxj750KPt8",
     "description": "An Indian wedding is a vibrant, multi-day celebration filled with rituals, traditions, and joyous gatherings. "
@@ -33,6 +28,11 @@
     "title": "TANA Pickleball tournament",
     "youtubeId": "VhfHDkZfolw",
     "description": "Highlights from a local pickleball tournament conducted by TANA"
+  },
+  {
+    "title": "Cinematic Drone Footage",
+    "youtubeId": "Bolqtw-OVuo",
+    "description": "Stunning aerial shots captured with a drone"
   },
   {
     "title": "House warming drone footage",
