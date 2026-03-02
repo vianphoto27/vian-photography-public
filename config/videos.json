@@ -25,11 +25,6 @@
     "description": "Traditional Indian baby shower photography"
   },
   {
-    "title": "House warming drone footage",
-    "youtubeId": "AHzYCSuu2sQ",
-    "description": "Drone footage of a traditional house warming ceremony"
-  },
-  {
     "title": "Engagement",
     "youtubeId": "qEF1cP3FBMI",
     "description": "An Indian engagement is a pre-wedding ceremony where the couple exchanges rings in the presence of family and close friends"
@@ -38,5 +33,10 @@
     "title": "Half saree",
     "youtubeId": "KoBMc3zRf0s",
     "description": "The Indian traditional half saree ceremony, also known as the Langa Voni or Ritu Kala Samskara, celebrates a young girl’s transition into adolescence."
+  },
+  {
+    "title": "House warming drone footage",
+    "youtubeId": "AHzYCSuu2sQ",
+    "description": "Drone footage of a traditional house warming ceremony"
   }
 ]
