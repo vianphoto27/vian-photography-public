@@ -1,6 +1,6 @@
 {
   "event-xrtmh9z": {
-    "title": "Sample event123",
+    "title": "Annual Photography Meetup 2026124",
     "youtubeDetails": [
       {
         "youtubeId": "BTyPHTpoO5s",
@@ -36,22 +36,6 @@
       }
     ],
     "photos": [
-      "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=800"
-    ]
-  },
-  "event-8to4ehn": {
-    "title": "Sample Event333",
-    "youtubeDetails": [
-      {
-        "youtubeId": "BTyPHTpoO5s",
-        "name": "Live event 1",
-        "date": "Sept 06th 2026",
-        "location": "Bentonville, AR",
-        "description": "Join us live for behind-the-scenes coverage of our sample event."
-      }
-    ],
-    "photos": [
-      "https://images.unsplash.com/photo-1519741497674-611481863552?w=800",
       "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=800"
     ]
   }
