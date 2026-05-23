@@ -64,7 +64,7 @@
     "photos": [],
     "iframes": [
       {
-        "name": "Event Gallery",
+        "name": "Gallery",
         "src": "https://drive.google.com/embeddedfolderview?id=1-WhMm0RJwBpNqrK2MTnAFJlT9ivGd2Sg#list",
         "aspectRatio": 1.7777777777777777,
         "height": "60vh",
