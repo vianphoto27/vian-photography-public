@@ -65,13 +65,15 @@
     "iframes": [
       {
         "name": "Event Gallery",
-        "src": "https://drive.google.com/embeddedfolderview?id=1-WhMm0RJwBpNqrK2MTnAFJlT9ivGd2Sg#grid",
+        "src": "https://drive.google.com/embeddedfolderview?id=1-WhMm0RJwBpNqrK2MTnAFJlT9ivGd2Sg#list",
         "aspectRatio": 1.7777777777777777,
-        "height": "600px",
+        "height": "1200px",
         "date": "Sept 06th 2026",
         "location": "Bentonville, AR",
         "description": "Browse all photos from the event in Google Drive",
-        "allow": "fullscreen"
+        "allow": "fullscreen",
+        "id": "1-WhMm0RJwBpNqrK2MTnAFJlT9ivGd2Sg",
+        "view": "grid"
       }
     ]
   }
