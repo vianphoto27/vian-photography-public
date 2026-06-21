@@ -36,34 +36,31 @@
       }
     ]
   },
-  "event-2c86g8p": {
-    "title": "Sumanth Weds Lavanya",
-    "youtubeDetails": [
+  "event-6ulj477": {
+    "title": "Rishi's Grad Party",
+    "youtubeDetails": [],
+    "photos": [],
+    "iframes": [
       {
-        "youtubeId": "LTzI-_OpSuw",
-        "name": "Sumanth & Lavanya Wedding Live",
-        "date": "May 08, 2026",
+        "name": "Gallery",
+        "src": "https://drive.google.com/embeddedfolderview?id=1-WhMm0RJwBpNqrK2MTnAFJlT9ivGd2Sg#list",
+        "aspectRatio": 1.7777777777777777,
+        "height": "60vh",
+        "date": "Sept 06th 2026",
         "location": "Bentonville, AR",
-        "description": ""
-      },
-      {
-        "youtubeId": "26AZtevTiPs",
-        "name": "Backup Sumanth & Lavanya Wedding Live",
-        "date": "May 08, 2026",
-        "location": "Bentonville, AR",
-        "description": ""
+        "description": "Browse all photos from the event in Google Drive",
+        "allow": "fullscreen",
+        "id": "1vfL7-PyvLI9a6_nB-LSYPcdGBe5vES0F",
+        "view": "grid"
       }
-    ],
-    "photos": [
-      "https://images.unsplash.com/photo-1587271339318-2e78fdf79586?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     ]
   },
   "event-yteiih7": {
     "title": "Aadhya's Half Saree Event",
     "youtubeDetails": [
       {
-        "youtubeId": "17JEa6MhABk",
-        "name": "Aadhya's  Half Saree Ceremony Live",
+        "youtubeId": "krpVetTsLhY",
+        "name": "Aadhya's Half Saree Ceremony Live",
         "date": "June 21st 2026",
         "location": "Bentonville, AR",
         "description": ""
