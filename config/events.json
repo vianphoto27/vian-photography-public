@@ -76,5 +76,21 @@
         "view": "grid"
       }
     ]
+  },
+  "event-yteiih7": {
+    "title": "Sample Event",
+    "youtubeDetails": [
+      {
+        "youtubeId": "17JEa6MhABk",
+        "name": "Live event 1",
+        "date": "June 21st 2026",
+        "location": "Bentonville, AR",
+        "description": ""
+      }
+    ],
+    "photos": [
+      "https://images.unsplash.com/photo-1519741497674-611481863552?w=800"
+    ],
+    "iframes": []
   }
 }
